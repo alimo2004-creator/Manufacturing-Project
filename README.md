@@ -130,7 +130,6 @@ After completing conventional machining, the parts were reproduced on a **CNC ve
 - Achieved tighter tolerances than manual machining
 - Demonstrated the speed advantage of CNC over conventional methods
 
-> 📁 Add your CNC G-code files and SolidWorks CAM screenshots to the `cnc/` folder
 
 ---
 
@@ -142,7 +141,6 @@ The final part geometry was also fabricated via **FDM 3D printing**:
 - Printed in PLA for geometry verification and visual comparison with machined parts
 - Demonstrated the difference in surface finish, tolerances, and production time between additive and subtractive manufacturing
 
-> 📁 Add your `.stl` files and Cura screenshots to the `3d-printing/` folder
 
 ---
 
