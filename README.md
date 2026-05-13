@@ -27,6 +27,14 @@ After completing all conventional machining labs, the final parts were **modelle
 
 ---
 
+## 📂 Full Project Files — Google Drive
+
+All lab reports, working drawings, SolidWorks models, CNC files, and 3D printing files are available here:
+
+> 📁 **[Click here to access the full project folder on Google Drive](https://drive.google.com/drive/folders/1_nh-n4oOhPZYv5zSrfln-0C4mshJdaQD?usp=drive_link)**
+
+---
+
 ## ⚙️ Lab Breakdown
 
 ### 🔵 Lab 2 — Drilling & Milling (Combined)
