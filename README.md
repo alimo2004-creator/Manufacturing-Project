@@ -184,13 +184,11 @@ manufacturing-technology-MDP281/
 
 > Add your lab photos below — replace the filenames with your actual image names
 
-![Milling Operations](images/milling.jpg)
-![T-slot and Dovetail](images/tslot-dovetail.jpg)
-![Drilling Setup](images/drilling.jpg)
-![Shaper Machine](images/shaper.jpg)
-![CNC Machining](images/cnc.jpg)
-![3D Printed Part](images/3d-print.jpg)
-![Final Products Comparison](images/final-comparison.jpg)
+![Milling Operations](milling.jpg)
+![turning](turning1.jpg)
+![Drilling Setup](drilling-cad.jpg)
+![Shaper Machine](shaper1.jpg)
+![Shaper Machine](shaper-cad.jpg)
 
 ---
 
