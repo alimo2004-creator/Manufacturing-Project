@@ -184,11 +184,11 @@ manufacturing-technology-MDP281/
 
 > Add your lab photos below — replace the filenames with your actual image names
 
-![Milling Operations](milling.jpeg)
-![turning](turning1.jpeg)
-![Drilling Setup](drilling-cad.jpeg)
-![Shaper Machine](shaper1.jpeg)
-![Shaper Machine](shaper-cad.jpeg)
+![Milling Operations](image/milling.jpeg)
+![turning](image/turning1.jpeg)
+![Drilling Setup](image/drilling-cad.jpeg)
+![Shaper Machine](image/shaper1.jpeg)
+![Shaper Machine](image/shaper-cad.jpeg)
 
 ---
 
